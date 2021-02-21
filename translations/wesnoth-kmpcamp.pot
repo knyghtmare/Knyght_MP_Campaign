@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2021-02-21 02:29 UTC\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. [campaign]: id=Knyght_UMC_MP_Campaign_Tribulations, type=mp, description=<span size='xx-large' color='#FCC203'>
+#: Knyght_MP_Campaign\_main.cfg:20
+msgid "Tribulations"
+msgstr ""
+
+#. [campaign]: id=Knyght_UMC_MP_Campaign_Tribulations, type=mp, description=<span size='xx-large' color='#FCC203'>
+#: Knyght_MP_Campaign\_main.cfg:21
+msgid "KnyghtMP"
+msgstr ""
+
+#. [campaign]: id=Knyght_UMC_MP_Campaign_Tribulations, type=mp, description=<span size='xx-large' color='#FCC203'>
+#: Knyght_MP_Campaign\_main.cfg:39
+msgid "Knyght MP Campaign"
+msgstr ""
+
+#. [campaign]: id=Knyght_UMC_MP_Campaign_Tribulations, type=mp, description=<span size='xx-large' color='#FCC203'>
+#: Knyght_MP_Campaign\_main.cfg:39
+msgid ""
+"\n"
+"You have been chosen as one of the champions of an once mighty sorcerer. Endure and conqure all trials in order to free the sorcerer for a way back home."
+msgstr ""
+
+#. [campaign]: id=Knyght_UMC_MP_Campaign_Tribulations, type=mp, description=<span size='xx-large' color='#FCC203'>
+#: Knyght_MP_Campaign\_main.cfg:41
+msgid "(Co-operative/Competitive MP campaign, 4 out of X possible scenarios)"
+msgstr ""
+
+#. [campaign]: id=Knyght_UMC_MP_Campaign_Tribulations, type=mp, description=<span size='xx-large' color='#FCC203'>
+#: Knyght_MP_Campaign\_main.cfg:43
+msgid "Soldier"
+msgstr ""
+
+#. [campaign]: id=Knyght_UMC_MP_Campaign_Tribulations, type=mp, description=<span size='xx-large' color='#FCC203'>
+#: Knyght_MP_Campaign\_main.cfg:43
+msgid "Easy"
+msgstr ""
+
+#. [campaign]: id=Knyght_UMC_MP_Campaign_Tribulations, type=mp, description=<span size='xx-large' color='#FCC203'>
+#: Knyght_MP_Campaign\_main.cfg:44
+msgid "Commander"
+msgstr ""
+
+#. [campaign]: id=Knyght_UMC_MP_Campaign_Tribulations, type=mp, description=<span size='xx-large' color='#FCC203'>
+#: Knyght_MP_Campaign\_main.cfg:44
+msgid "Normal"
+msgstr ""
+
+#. [campaign]: id=Knyght_UMC_MP_Campaign_Tribulations, type=mp, description=<span size='xx-large' color='#FCC203'>
+#: Knyght_MP_Campaign\_main.cfg:45
+msgid "Legend"
+msgstr ""
+
+#. [campaign]: id=Knyght_UMC_MP_Campaign_Tribulations, type=mp, description=<span size='xx-large' color='#FCC203'>
+#: Knyght_MP_Campaign\_main.cfg:45
+msgid "Challenging"
+msgstr ""
+
+#. [about]
+#: Knyght_MP_Campaign\_main.cfg:48
+msgid "Author and Campaign Designer"
+msgstr ""
+
