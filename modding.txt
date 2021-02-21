@@ -3,3 +3,11 @@ Possible Scenario Choices:
 2. Survive until the end of turns
 3. Boss Fight
 4. Domination
+5. Capture the Flag - Do we want this?
+6. Duel
+7. 2pVs4AI Battle
+
+Key Aspects to Consider:
+1. Replayability
+2. Faction-Choice Liberation
+3. Randomisation
