@@ -1,1 +1,5 @@
 Possible Scenario Choices:
+1. Escort Targeted AI unit through a path
+2. Survive until the end of turns
+3. Boss Fight
+4. Domination
