@@ -7,5 +7,5 @@ for i, file in ipairs {
     'dialog/player_dialog.lua',
 }
 do
-    wesnoth.require('~add-ons/Knyght_MP_Campaign/lua/' .. file)
+    wesnoth.dofile('~add-ons/Knyght_MP_Campaign/lua/' .. file)
 end
