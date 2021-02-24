@@ -23,3 +23,8 @@ function KNY_MP_player_two_message(txt)
     -- behave like a message tag
     wesnoth.fire("message", { speaker = "playerTwo", message = txt.txt_msg})
 end
+
+function KNY_MP_player_message(txt)
+    -- behave like a message tag
+    wesnoth.fire("message", { speaker = txt.character, message = txt.txt_msg})
+end
