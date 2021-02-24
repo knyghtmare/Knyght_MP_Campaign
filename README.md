@@ -6,17 +6,17 @@
  Make a fun Co-Op MP campaign of variable length.
  Actually make it into a MP campaign
  Add different scenario varieties other than just killing every enemy on map
+ Utilisation of more Lua code than WML code or just a hybrid of both
 
 ## Scenario Variety List
  This is a list of all the possible scenario types presently available
- ### Currently Included
- 1. 2v2
- 2. 2v1
- 3. 2v3
+ ### Will be Added
+ 1. 2 players v 2 AI
+ 2. 2 players v 1 AI
+ 3. 2 players v 3 AI
  4. Escort target
  5. Hunting enemy units
- ### Future additions
- 5. Prevent target escape
- 6. Survival
- 7. Boss fight
- 8. Monster hunting
+ 6. Prevent target escape
+ 7. Survival
+ 8. Boss fight (boss picked from randomised selection, each with different playstyles and stuff)
+ 9. Monster hunting
