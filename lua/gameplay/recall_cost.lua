@@ -1,5 +1,5 @@
-local cost0 = wesnoth.get_variable ""
-local cost1 = wesnoth.get_variable ""
+local cost0 = wesnoth.get_variable "UMC_kny_mp_camp_recall_cost_zero"
+local cost1 = wesnoth.get_variable "UMC_kny_mp_camp_recall_cost_one"
 
 for _, unit in ipairs(wesnoth.get_recall_units {}) do
     if unit.level == 0 then
