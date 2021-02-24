@@ -21,6 +21,11 @@
  8. Boss fight (boss picked from randomised selection, each with different playstyles and stuff)
  9. Monster hunting
 
+## Key Aspects to Consider:
+ 1. Replayability
+ 2. Faction-Choice Liberation
+ 3. Randomisation
+
 ## Eras Used:
  1. Default Era
  2. Default+Dunefolk Era
