@@ -33,3 +33,4 @@
 ## Upcoming Feature List
  1. Item/Artifact system of WC (if I can do it, that is)
  2. Customised Era waves (War of Legends/Era of Myths/Era of Magic/Ageless Era)
+ 3. Sub-Leader functionality (if main leader dies, a hero can replace her/him)
