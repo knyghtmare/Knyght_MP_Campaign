@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2021-02-25 03:46 UTC\n"
+"POT-Creation-Date: 2021-02-25 03:51 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,11 +12,10 @@ msgstr ""
 
 #. [section]: id=knyght_MP_campaign_help
 #. [topic]: id=..knyght_MP_campaign_help
-#. [campaign]: id=Knyght_UMC_MP_Campaign, type=mp, description=<span size='xx-large' color='#FCC203'>
+#. [campaign]: id=Knyght_UMC_MP_Campaign, type=mp
 #: Knyght_MP_Campaign\help\information.cfg:15
 #: Knyght_MP_Campaign\help\information.cfg:22
 #: Knyght_MP_Campaign\_main.cfg:20
-#: Knyght_MP_Campaign\_main.cfg:41
 msgid "Knyght MP Campaign"
 msgstr ""
 
@@ -256,115 +255,108 @@ msgstr ""
 msgid "Hello, and thank you for playing! I hope you have enjoyed the battles and survivals I have coded. Please do give feedback on them on the forum topic, or the Wesnoth discord."
 msgstr ""
 
-#. [campaign]: id=Knyght_UMC_MP_Campaign, type=mp, description=<span size='xx-large' color='#FCC203'>
-#: Knyght_MP_Campaign\_main.cfg:21
-msgid "KnyghtMP"
-msgstr ""
-
-#. [campaign]: id=Knyght_UMC_MP_Campaign, type=mp, description=<span size='xx-large' color='#FCC203'>
+#. [campaign]: id=Knyght_UMC_MP_Campaign, type=mp
 #: Knyght_MP_Campaign\_main.cfg:41
-msgid ""
-"\n"
-"An immensely powerful sorcerer has transported you to participate in a series of battles for his amusements. Can you overcome all ordeals and return back to where you came from?"
+msgid "An immensely powerful sorcerer has transported you to participate in a series of battles for his amusements. Can you overcome all ordeals and return back to where you came from?"
 msgstr ""
 
-#. [campaign]: id=Knyght_UMC_MP_Campaign, type=mp, description=<span size='xx-large' color='#FCC203'>
-#: Knyght_MP_Campaign\_main.cfg:43
+#. [campaign]: id=Knyght_UMC_MP_Campaign, type=mp
+#: Knyght_MP_Campaign\_main.cfg:42
 msgid "(Co-operative/Competitive MP campaign, 2 to 5 playable scenarios out of a possible 8)"
 msgstr ""
 
-#. [campaign]: id=Knyght_UMC_MP_Campaign, type=mp, description=<span size='xx-large' color='#FCC203'>
-#: Knyght_MP_Campaign\_main.cfg:45
+#. [campaign]: id=Knyght_UMC_MP_Campaign, type=mp
+#: Knyght_MP_Campaign\_main.cfg:44
 msgid "Soldier"
 msgstr ""
 
-#. [campaign]: id=Knyght_UMC_MP_Campaign, type=mp, description=<span size='xx-large' color='#FCC203'>
-#: Knyght_MP_Campaign\_main.cfg:45
+#. [campaign]: id=Knyght_UMC_MP_Campaign, type=mp
+#: Knyght_MP_Campaign\_main.cfg:44
 msgid "Easy"
 msgstr ""
 
-#. [campaign]: id=Knyght_UMC_MP_Campaign, type=mp, description=<span size='xx-large' color='#FCC203'>
-#: Knyght_MP_Campaign\_main.cfg:46
+#. [campaign]: id=Knyght_UMC_MP_Campaign, type=mp
+#: Knyght_MP_Campaign\_main.cfg:45
 msgid "Commander"
 msgstr ""
 
-#. [campaign]: id=Knyght_UMC_MP_Campaign, type=mp, description=<span size='xx-large' color='#FCC203'>
-#: Knyght_MP_Campaign\_main.cfg:46
+#. [campaign]: id=Knyght_UMC_MP_Campaign, type=mp
+#: Knyght_MP_Campaign\_main.cfg:45
 msgid "Normal"
 msgstr ""
 
-#. [campaign]: id=Knyght_UMC_MP_Campaign, type=mp, description=<span size='xx-large' color='#FCC203'>
-#: Knyght_MP_Campaign\_main.cfg:47
+#. [campaign]: id=Knyght_UMC_MP_Campaign, type=mp
+#: Knyght_MP_Campaign\_main.cfg:46
 msgid "Legend"
 msgstr ""
 
-#. [campaign]: id=Knyght_UMC_MP_Campaign, type=mp, description=<span size='xx-large' color='#FCC203'>
-#: Knyght_MP_Campaign\_main.cfg:47
+#. [campaign]: id=Knyght_UMC_MP_Campaign, type=mp
+#: Knyght_MP_Campaign\_main.cfg:46
 msgid "Challenging"
 msgstr ""
 
 #. [about]
-#: Knyght_MP_Campaign\_main.cfg:50
+#: Knyght_MP_Campaign\_main.cfg:49
 msgid "Author and Campaign Designer"
 msgstr ""
 
 #. [about]
-#: Knyght_MP_Campaign\_main.cfg:59
+#: Knyght_MP_Campaign\_main.cfg:58
 msgid "Inspirations"
 msgstr ""
 
 #. [checkbox]: id=UMC_kny_mp_camp_enable_custom_duration
-#: Knyght_MP_Campaign\_main.cfg:86
+#: Knyght_MP_Campaign\_main.cfg:85
 msgid "Enable campaign duration customisation"
 msgstr ""
 
 #. [checkbox]: id=UMC_kny_mp_camp_enable_custom_duration
-#: Knyght_MP_Campaign\_main.cfg:87
+#: Knyght_MP_Campaign\_main.cfg:86
 msgid "Change the number of playable scenarios"
 msgstr ""
 
 #. [slider]: id=UMC_kny_mp_camp_scenario_count
-#: Knyght_MP_Campaign\_main.cfg:95
+#: Knyght_MP_Campaign\_main.cfg:94
 msgid "Number of Scenarios"
 msgstr ""
 
 #. [slider]: id=UMC_kny_mp_camp_scenario_count
-#: Knyght_MP_Campaign\_main.cfg:96
+#: Knyght_MP_Campaign\_main.cfg:95
 msgid "Please select how many scenarios you and your friend would like to play."
 msgstr ""
 
 #. [checkbox]: id=UMC_kny_mp_camp_change_recall_costs
-#: Knyght_MP_Campaign\_main.cfg:105
+#: Knyght_MP_Campaign\_main.cfg:104
 msgid "Change Recall Costs"
 msgstr ""
 
 #. [checkbox]: id=UMC_kny_mp_camp_change_recall_costs
-#: Knyght_MP_Campaign\_main.cfg:106
+#: Knyght_MP_Campaign\_main.cfg:105
 msgid "Change Recall Costs for Level 0 and level 1 units"
 msgstr ""
 
 #. [slider]: id=UMC_kny_mp_camp_recall_cost_zero
-#: Knyght_MP_Campaign\_main.cfg:114
+#: Knyght_MP_Campaign\_main.cfg:113
 msgid "Level Zero Recall Cost"
 msgstr ""
 
 #. [slider]: id=UMC_kny_mp_camp_recall_cost_zero
-#: Knyght_MP_Campaign\_main.cfg:115
+#: Knyght_MP_Campaign\_main.cfg:114
 msgid "Cost to recall level zero units"
 msgstr ""
 
 #. [slider]: id=UMC_kny_mp_camp_recall_cost_one
-#: Knyght_MP_Campaign\_main.cfg:123
+#: Knyght_MP_Campaign\_main.cfg:122
 msgid "Level One Recall Cost"
 msgstr ""
 
 #. [slider]: id=UMC_kny_mp_camp_recall_cost_one
-#: Knyght_MP_Campaign\_main.cfg:124
+#: Knyght_MP_Campaign\_main.cfg:123
 msgid "Cost to recall level one units"
 msgstr ""
 
 #. [checkbox]: id=UMC_kny_mp_camp_item_drops
-#: Knyght_MP_Campaign\_main.cfg:132
+#: Knyght_MP_Campaign\_main.cfg:131
 msgid "Enable Artifact Drops"
 msgstr ""
 
@@ -374,47 +366,47 @@ msgstr ""
 #. [checkbox]: id=UMC_kny_mp_camp_EoMa_enemy_types
 #. [checkbox]: id=UMC_kny_mp_camp_Ageless_enemy_types
 #. [checkbox]: id=UMC_kny_mp_camp_GSE_enemy_types
-#: Knyght_MP_Campaign\_main.cfg:133
-#: Knyght_MP_Campaign\_main.cfg:144
-#: Knyght_MP_Campaign\_main.cfg:151
-#: Knyght_MP_Campaign\_main.cfg:158
-#: Knyght_MP_Campaign\_main.cfg:166
-#: Knyght_MP_Campaign\_main.cfg:174
+#: Knyght_MP_Campaign\_main.cfg:132
+#: Knyght_MP_Campaign\_main.cfg:143
+#: Knyght_MP_Campaign\_main.cfg:150
+#: Knyght_MP_Campaign\_main.cfg:157
+#: Knyght_MP_Campaign\_main.cfg:165
+#: Knyght_MP_Campaign\_main.cfg:173
 msgid "Not Available in Demo."
 msgstr ""
 
 #. [checkbox]: id=UMC_kny_mp_camp_WOL_enemy_types
-#: Knyght_MP_Campaign\_main.cfg:143
+#: Knyght_MP_Campaign\_main.cfg:142
 msgid "War of Legends Specific Enemy Types"
 msgstr ""
 
 #. [checkbox]: id=UMC_kny_mp_camp_EOM_enemy_types
-#: Knyght_MP_Campaign\_main.cfg:150
+#: Knyght_MP_Campaign\_main.cfg:149
 msgid "Era of Myths Enemy Types"
 msgstr ""
 
 #. [checkbox]: id=UMC_kny_mp_camp_EoMa_enemy_types
-#: Knyght_MP_Campaign\_main.cfg:157
+#: Knyght_MP_Campaign\_main.cfg:156
 msgid "Era of Magic Enemy Types"
 msgstr ""
 
 #. [checkbox]: id=UMC_kny_mp_camp_Ageless_enemy_types
-#: Knyght_MP_Campaign\_main.cfg:165
+#: Knyght_MP_Campaign\_main.cfg:164
 msgid "Ageless Era Enemy Types"
 msgstr ""
 
 #. [checkbox]: id=UMC_kny_mp_camp_GSE_enemy_types
-#: Knyght_MP_Campaign\_main.cfg:173
+#: Knyght_MP_Campaign\_main.cfg:172
 msgid "Great Steppe Era Enemy Types"
 msgstr ""
 
 #. [args]
-#: Knyght_MP_Campaign\_main.cfg:193
+#: Knyght_MP_Campaign\_main.cfg:192
 msgid "Recall Costs have been Modified"
 msgstr ""
 
 #. [args]
-#: Knyght_MP_Campaign\_main.cfg:208
+#: Knyght_MP_Campaign\_main.cfg:207
 msgid "Recall Costs have been set to Default values"
 msgstr ""
 
