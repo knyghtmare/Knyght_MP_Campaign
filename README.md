@@ -10,16 +10,20 @@
 
 ## Scenario Variety List
  This is a list of all the possible scenario types presently available
+ 
+ ### Currently Available
+ 1. 2 players v 2 AI (using default map generator)
+ 2. 2 players v 3 AI (using default map generator)
+   
  ### Will be Added
- 1. 2 players v 2 AI
- 2. 2 players v 1 AI
- 3. 2 players v 3 AI
- 4. Escort target
- 5. Hunting enemy units
- 6. Prevent target escape
- 7. Survival
- 8. Boss fight (boss picked from randomised selection, each with different playstyles and stuff)
- 9. Monster hunting
+ 1. 2 players v 2 AI (using Lua map generator)
+ 2. 2 players v 3 AI (using Lua map generator)
+ 3. Escort target
+ 4. Hunting enemy units
+ 5. Prevent target escape
+ 6. Survival
+ 7. Boss fight (boss picked from randomised selection, each with different playstyles and stuff)
+ 8. Monster hunting
 
 ## Key Aspects to Consider:
  1. Replayability
