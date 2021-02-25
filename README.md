@@ -10,7 +10,7 @@
 
 ## Scenario Variety List
  This is a list of all the possible scenario types presently available
- 
+
  ### Currently Available
  1. 2 players v 2 AI (using default map generator)
  2. 2 players v 3 AI (using default map generator)
@@ -30,9 +30,15 @@
  2. Faction-Choice Liberation
  3. Randomisation
 
-## Eras Used:
+## Eras Used for Enemy Sides:
  1. Default Era
  2. Default+Dunefolk Era
+ ### Will be Available in Feature Releases:
+ 1. War of Legends
+ 2. Era of Myths
+ 3. Era of Magic
+ 4. Ageless Era
+ 5. Great Steppe Era
 
 ## Upcoming Feature List
  1. Item/Artifact system of WC (if I can do it, that is)
