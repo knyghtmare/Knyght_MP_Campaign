@@ -6,7 +6,7 @@ local on_event = wesnoth.require("on_event")
 
 on_event("die", function(cx)
     local u = wesnoth.units.get(cx.x1, cx.y1)
-	if (not u) or (not u:matches({ side = 3, canrecruit = true })) then
+	if (not u) or (not u:matches({ side = 1, canrecruit = true })) then
 		return
     else
         wesnoth.wml_actions.endlevel {
@@ -17,7 +17,7 @@ end)
 
 on_event("die", function(cx)
     local u = wesnoth.units.get(cx.x1, cx.y1)
-	if (not u) or (not u:matches({ side = 4, canrecruit = true })) then
+	if (not u) or (not u:matches({ side = 2, canrecruit = true })) then
 		return
     else
         wesnoth.wml_actions.endlevel {
