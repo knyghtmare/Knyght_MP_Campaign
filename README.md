@@ -50,7 +50,7 @@
  2. Difficulty Adjustments are not drastic
  3. Enemy Waves with modified AI might overwhelm novice skill players
  4. Death of any of the Player-controlled leaders causes defeat
- 5. Enemy faction recalls are not difficulty dependent.
-    --> Not sure why the `{ON_DIFFICULTY}` macro fails when used with `do=` of `[repeat]`.
-    --> Only the EASY value is read and the NORMAL and HARD values are ignored.
+ 5. ### Enemy faction recalls are not difficulty dependent.
+    1. Not sure why the `{ON_DIFFICULTY}` macro fails when used with `do=` of `[repeat]`.
+    2. Only the EASY value is read and the NORMAL and HARD values are ignored.
  6. Competitive scenarios such as the boss-fight, abyss, survival have not been coded yet.
