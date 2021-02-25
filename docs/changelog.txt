@@ -1,0 +1,5 @@
+Knyght MP Campaign
+current version: v0.0.1
+
+v0.0.1
+--> initial planned release of demo
