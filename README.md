@@ -50,4 +50,4 @@
  2. Difficulty Adjustments are not drastic
  3. Enemy Waves might overwhelm novice skill players
  4. Death of any of the Player-controlled leaders causes defeat
- 5. Enemy faction recalls are not difficulty dependent.
+ 5. Enemy faction recalls are not difficulty dependent. Not sure why the `{ON_DIFFICULTY}` macro fails when used with `do=`
