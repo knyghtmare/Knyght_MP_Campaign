@@ -44,3 +44,9 @@
  1. Item/Artifact system of WC (if I can do it, that is)
  2. Customised Era waves (War of Legends/Era of Myths/Era of Magic/Ageless Era)
  3. Sub-Leader functionality (if main leader dies, a hero can replace her/him)
+
+## Known Issues
+ 1. This is a Demo release.
+ 2. Difficulty Adjustments are not drastic
+ 3. Enemy Waves might overwhelm novice skill players
+ 4. Death of any of the Player-controlled leaders causes defeat
