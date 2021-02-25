@@ -7,4 +7,5 @@ for _, unit in ipairs(wesnoth.get_recall_units {}) do
     end
     if unit.level == 1 then
         unit.recall_cost = cost1
+    end
 end
