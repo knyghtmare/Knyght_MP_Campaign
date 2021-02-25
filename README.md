@@ -48,6 +48,8 @@
 ## Known Issues
  1. This is a Demo release.
  2. Difficulty Adjustments are not drastic
- 3. Enemy Waves might overwhelm novice skill players
+ 3. Enemy Waves with modified AI might overwhelm novice skill players
  4. Death of any of the Player-controlled leaders causes defeat
- 5. Enemy faction recalls are not difficulty dependent. Not sure why the `{ON_DIFFICULTY}` macro fails when used with `do=`
+ 5. Enemy faction recalls are not difficulty dependent.
+    --> Not sure why the `{ON_DIFFICULTY}` macro fails when used with `do=` of `[repeat]`.
+    --> Only the EASY value is read and the NORMAL and HARD values are ignored.
