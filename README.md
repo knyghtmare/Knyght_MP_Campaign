@@ -3,10 +3,10 @@
  Note: This is my attempt at creating something similar to World Conquest (the popular Coop MP campaign)
 
 ## Goals
- Make a fun Co-Op MP campaign of variable length.
- Actually make it into a MP campaign
- Add different scenario varieties other than just killing every enemy on map
- Utilisation of more Lua code than WML code or just a hybrid of both
+ 1. Make a fun Co-Op MP campaign of variable length.
+ 2. Actually make it into a MP campaign
+ 3. Add different scenario varieties other than just killing every enemy on map
+ 4. Utilisation of more Lua code than WML code or just a hybrid of both
 
 ## Scenario Variety List
  This is a list of all the possible scenario types presently available
@@ -46,10 +46,11 @@
  3. Sub-Leader functionality (if main leader dies, a hero can replace her/him)
 
 ## Known Issues
- 1. This is a Demo release.
+ 1. This is a DEMO release.
  2. Difficulty Adjustments are not drastic
  3. Enemy Waves with modified AI might overwhelm novice skill players
  4. Death of any of the Player-controlled leaders causes defeat
  5. Enemy faction recalls are not difficulty dependent.
     --> Not sure why the `{ON_DIFFICULTY}` macro fails when used with `do=` of `[repeat]`.
     --> Only the EASY value is read and the NORMAL and HARD values are ignored.
+ 6. Competitive scenarios such as the boss-fight, abyss, survival have not been coded yet.
