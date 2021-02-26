@@ -6,6 +6,7 @@ helper = wesnoth.require "lua/helper.lua"
 for i, file in ipairs {
     'dialog/player_dialog.lua',
     'scenarios/hero_deaths.lua',
+    --'enemy_types/drakes.lua',
 }
 do
     wesnoth.dofile('~add-ons/Knyght_MP_Campaign/lua/' .. file)
