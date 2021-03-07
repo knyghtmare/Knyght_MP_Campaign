@@ -3,3 +3,7 @@ current version: v0.0.1
 
 v0.0.1
 --> initial planned release of demo
+
+v0.0.2
+--> reduced strength of enemy sides by cutting gold by 20
+    for each difficulty
