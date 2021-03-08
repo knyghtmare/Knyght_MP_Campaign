@@ -7,3 +7,4 @@ v0.0.1
 v0.0.2
 --> reduced strength of enemy sides by cutting gold by 20
     for each difficulty
+--> added more random maps (source URM)
