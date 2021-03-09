@@ -10,3 +10,6 @@ v0.0.2
 --> added more random maps
 --> for scenarios with 3 AI enemies,
     enemies have reduced gold 
+
+v0.0.3
+--> fixed a typo in one unit ID
